@@ -7,6 +7,7 @@
 -  facebook.com/stenio.info
 -  twitter.com/SousaStenio
 -  +55(85)99871-8986(WhatsApp)
+
 /*
 Tecnólogo em Gestão de Tecnologia da Informação - FATENE
 Graduando em Redes de Computadores - FATENE
