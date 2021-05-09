@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @steniotech
-- 👀 I’m interested in Networking
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-/**
+- 👋 Oi,Eu sou @steniotech, Bem Vindo! ao meu Github.
+- 👀 Tenho interesse em Infraestrutura
+- 🌱 Atualmente estou aprendendo Java 
+- 💞️ Estou procurando colaborar em DevOps
+- 📫 Você poderá me encontrar nas seguintes redes:
+-  linkedin.com/in/steniosousa
+-  facebook.com/stenio.info
+-  twitter.com/SousaStenio
+-  +55(85)99871-8986(WhatsApp)
+/*
 Tecnólogo em Gestão de Tecnologia da Informação - FATENE
 Graduando em Redes de Computadores - FATENE
 Sólidos conhecimentos em Instalação e Manutenção de Workstation
