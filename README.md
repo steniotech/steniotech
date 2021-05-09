@@ -6,8 +6,10 @@
 -  linkedin.com/in/steniosousa
 -  facebook.com/stenio.info
 -  twitter.com/SousaStenio
--  +55(85)99871-8986(WhatsApp)
-
+-  +55(85)99871-8986(WhatsApp)  
+-  stenio.tecnologia@gmail.com
+-  thinkertecnologia.negocio.site
+-  
 /*
 Tecnólogo em Gestão de Tecnologia da Informação - FATENE;
 Graduando em Redes de Computadores - FATENE;
