@@ -1,7 +1,7 @@
 - 👋 Oi,Eu sou Stenio Alves de Sousa, Bem Vindo! ao meu Github!
+- - 💞️ Estou procurando colaborar em DevOps
+- - 👀 Tenho interesse em Infraestrutura de TI
 - 🌱 Atualmente estou aprendendo Cloud Computing - Amazon AWS,Microsoft Azure,Oracle Cloud 
-- 👀 Tenho interesse em Infraestrutura (Redes,Servidores,Administração de Sistemas Operacionais Windows e GNU/Linux
-- 💞️ Estou procurando colaborar em DevOps
 - 📫 Você poderá me encontrar nas seguintes redes:
 -  linkedin.com/in/steniosousa
 -  facebook.com/stenio.info
