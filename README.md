@@ -10,8 +10,8 @@
 - linkedin.com/in/steniosousa
 - stenio.tecnologia@gmail.com
 - instagram.com/stenio.tecnologia
-- https://spyrotecnologia.negocio.site
-+55(85)98621-4495(WhatsApp) | 3219-0521
+- https://spyrotecnologia.negocio.site <br/>
++55(85)98621-4495(WhatsApp) | 3219-0521 <br/>
 
 <html>
  <body>
