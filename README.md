@@ -12,14 +12,16 @@
 
 <html>
  <head>
-  <title> /* Graduando em Redes de Computadores - FATENE
+  <title> 
+  </title>
+ </head>
+ <body>
+  /* Graduando em Redes de Computadores - FATENE
           Tecnólogo em Gestão de Tecnologia da Informação - FATENE 2017
           Analista de Suporte,Técnico em Service Desk,Técnico em Informática
           Profissional com mais de 20 anos de experiência no Suporte Técnico de 1º e 2º nível.
-        */ <br /> </title>
- </head>
- <body>
-  Utilizando a tag <br /> para quebra de linha.
+        */ 
+  <br />
  </body>
 </html>
 
