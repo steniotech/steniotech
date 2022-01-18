@@ -15,7 +15,7 @@
  <body>
   /* Graduando em Redes de Computadores - FATENE <br/>
      Tecnólogo em Gestão de Tecnologia da Informação - FATENE 2017 <br/>
-     Analista de Suporte,Técnico em Service Desk,Técnico em Informática <br/>
+     Analista de Suporte, Técnico em Service Desk, Técnico em Informática <br/>
      Profissional com mais de 20 anos de experiência no Suporte Técnico de 1º e 2º nível. <br/>
         */ 
  </body>
