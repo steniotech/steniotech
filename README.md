@@ -12,6 +12,7 @@
 - instagram.com/stenio.tecnologia
 - https://spyrotecnologia.negocio.site
 +55(85)98621-4495(WhatsApp) | 3219-0521
+
 <html>
  <body>
   /* Graduando em Redes de Computadores - FATENE <br/>
