@@ -8,7 +8,7 @@
 - twitter.com/SousaStenio
 - facebook.com/stenio.info
 - linkedin.com/in/steniosousa
-- stenio.tecnologia@gmail.com
+- stenio.tech@gmail.com
 - instagram.com/stenio.tecnologia
 +55(85)98621-4495(WhatsApp) | 3219-0521 <br/>
 
