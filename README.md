@@ -14,10 +14,10 @@
 
 <html>
  <body>
-  /* Pós-Graduando em Redes de Computadores e Segurança Forense - UNIFAMETRO 2023 <br/>
-     Tecnólogo em Gestão de Tecnologia da Informação - FATENE 2017 <br/>
-     Analista de Suporte, Técnico em Service Desk, Técnico em Informática <br/>
-     Profissional com mais de 20 anos de experiência no Suporte Técnico de 1º e 2º nível. <br/>
+  /* Pós-Graduando em Redes de Computadores e Segurança Forense - UNIFAMETRO 2023
+     Tecnólogo em Gestão de Tecnologia da Informação - FATENE 2017 
+     Analista de Suporte, Técnico em Service Desk, Técnico em Informática 
+     Profissional com mais de 20 anos de experiência no Suporte Técnico de 1º e 2º nível. 
         */ 
  </body>
 </html>
