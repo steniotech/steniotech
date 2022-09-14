@@ -10,7 +10,7 @@
 - linkedin.com/in/steniosousa
 - stenio.tech@gmail.com
 - instagram.com/stenio.tecnologia
-+55(85)98621-4495(WhatsApp) | 3219-0521 <br/>
++55(85)98621-4495(WhatsApp) | 3219-0521 
 
 <html>
  <body>
