@@ -6,11 +6,11 @@
 - stenio.tech@gmail.com
 - twitter.com/SousaStenio
 - facebook.com/stenio.info
-- linkedin.com/in/steniosousa
-- instagram.com/stenio.tecnologia
+- linkedin.com/in/steniotech
+- instagram.com/steniotech
 +55(85)98621-4495(WhatsApp) | 3219-0521 
   /* Tecnólogo em Gestão de Tecnologia da Informação - FATENE 2017 
-     Técnico em Service Desk, Técnico em Informática 
+     Técnico em Help Desk & Service Desk, Técnico em Informática 
      Profissional com mais de 20 anos de experiência no Suporte Técnico de 1º e 2º nível. 
         */ 
  
